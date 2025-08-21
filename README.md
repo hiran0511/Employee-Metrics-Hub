@@ -2,6 +2,8 @@
 I developed interactive Excel dashboards to analyze employee and organizational data. Using Pivot Tables, Charts, Slicers, and KPIs, the project delivers insights into workforce demographics, performance &amp; engagement, and training &amp; departmental analysis.
 ## Objective 
 The main goal of this project is to develop three dashboards in Excel – Demographics Insights, Performance & Engagement, and Training & Department. These dashboards use Pivot Tables, Charts, Slicers, and KPIs to make data simple, visual, and useful for tracking employees and organizational growth.
+## Dataset
+- <a href="https://github.com/hiran0511/Employee-Metrics-Hub/blob/main/Main.xlsx">Dataset</a>
 
 ## Features
 •	3 interactive dashboards created in Excel <br>
