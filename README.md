@@ -5,11 +5,11 @@ The main goal of this project is to develop three dashboards in Excel – Demogr
 ## Dataset
 - <a href="https://github.com/hiran0511/Employee-Metrics-Hub/blob/main/Main.xlsx">Dataset</a>
 ## Features
-•	3 interactive dashboards created in Excel <br>
-•	KPIs to track key metrics <br>
-•	Pivot tables and charts for dynamic insights<br>
-•	Slicers for quick data filtering <br>
-•	Clean and professional design<br>
+- 3 interactive dashboards created in Excel <br>
+-	KPIs to track key metrics <br>
+-	Pivot tables and charts for dynamic insights<br>
+- Slicers for quick data filtering <br>
+- Clean and professional design<br>
 ## Questions(KPI's)
 1.	Total number of employees?<br>
 2.	Number of active employees?<br>
@@ -24,11 +24,11 @@ The main goal of this project is to develop three dashboards in Excel – Demogr
 11.	Percentage of training cost from budget?<br>
 12.	Average training cost per employee?<br>
 ## Process
--Verify data for any missing values, and dupilcates.<br>
--Make sure data is consistent and clen with respect to data type, data format and values used.<br>
--Created pivot tables according to the questions asked.<br>
--Merge all pivot charts into one dashboard and apply the slicer to make dynamic.
+- Verify data for any missing values, and dupilcates.<br>
+- Make sure data is consistent and clen with respect to data type, data format and values used.<br>
+- Created pivot tables according to the questions asked.<br>
+- Merge all pivot charts into one dashboard and apply the slicer to make dynamic.
 ## Dashboard
--<a href="https://github.com/hiran0511/Employee-Metrics-Hub/blob/main/D_dashboard.png">D-Dashboard</a>
--<a href="https://github.com/hiran0511/Employee-Metrics-Hub/blob/main/P%26E_Dashboard.png">P&E-Dashboard</a>
--<a href="https://github.com/hiran0511/Employee-Metrics-Hub/blob/main/T%26D_Dashboard.png">T&D-Dashboard</a>
+- <a href="https://github.com/hiran0511/Employee-Metrics-Hub/blob/main/D_dashboard.png">D-Dashboard</a> <br>
+- <a href="https://github.com/hiran0511/Employee-Metrics-Hub/blob/main/P%26E_Dashboard.png">P&E-Dashboard</a><br>
+- <a href="https://github.com/hiran0511/Employee-Metrics-Hub/blob/main/T%26D_Dashboard.png">T&D-Dashboard</a><br>
