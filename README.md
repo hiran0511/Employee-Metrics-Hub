@@ -28,7 +28,7 @@ The main goal of this project is to develop three dashboards in Excel – Demogr
 - Make sure data is consistent and clen with respect to data type, data format and values used.<br>
 - Created pivot tables according to the questions asked.<br>
 - Merge all pivot charts into one dashboard and apply the slicer to make dynamic.
-## Dashboard
+## Dashboards
 - <a href="https://github.com/hiran0511/Employee-Metrics-Hub/blob/main/D_dashboard.png">D-Dashboard</a> <br>
 - <a href="https://github.com/hiran0511/Employee-Metrics-Hub/blob/main/P%26E_Dashboard.png">P&E-Dashboard</a><br>
 - <a href="https://github.com/hiran0511/Employee-Metrics-Hub/blob/main/T%26D_Dashboard.png">T&D-Dashboard</a><br>
